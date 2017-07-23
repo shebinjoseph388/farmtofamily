@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farmtofamily/ecommerce/BaseDTO.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farmtofamily/ecommerce/NetworkUtils.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farmtofamily/ecommerce/Pojo.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farmtofamily/ecommerce/PropertyFileReader.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farmtofamily/ecommerce/PropertyTypeConstants.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farmtofamily/ecommerce/SessionManager.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farmtofamily/ecommerce/UserAuth.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/farmtofamily/ecommerce/UserDbDTO.java" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

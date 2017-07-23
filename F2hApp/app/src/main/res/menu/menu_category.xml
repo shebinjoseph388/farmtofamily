@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/cart"
+        android:icon="@drawable/cart"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="cart"/>
+   <!-- <item
+        android:id="@+id/refresh"
+        android:icon="@drawable/ic_action_refresh"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="refresh"
+        />-->
+    <item
+        android:id="@+id/tv_cart_notif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5px"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="1"
+        android:textColor="@color/white"
+        android:textSize="12dp"
+        android:background="@color/red"
+        android:showAsAction="always"
+        android:title="1"
+        />
+
+</menu>
